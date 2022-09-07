@@ -4,7 +4,7 @@ Title: FeedrRewrite
 Version: 1.0
 Date: 2022-09-07
 Author: Jimmy Barnes
-Maintainer: Jimmy Barnes
+Maintainer: Jimmy Barnes  <jimmy.barnes@example.domain.net>
 Description: Rewrite of a small portion of the feedr pacakge into C++.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.9)
