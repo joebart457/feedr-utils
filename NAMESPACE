@@ -1,4 +1,3 @@
 useDynLib(FeedrRewrite, .registration=TRUE)
 importFrom(Rcpp, evalCpp)
 exportPattern("^[[:alpha:]]+")
-test<-read.csv("data-raw/MyData.csv")
