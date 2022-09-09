@@ -1,4 +1,5 @@
 
 
 load_all <- function()
-	TestData <- read.csv("data/MyData.csv")
+	print(getwd())
+	TestData <- read.csv("../data/MyData.csv")
